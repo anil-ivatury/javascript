@@ -1,1 +1,1 @@
-This is to pracicejs
+This is to pracice js
