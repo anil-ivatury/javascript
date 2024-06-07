@@ -1,1 +1,1 @@
-This is to pracice js
+This is to pracice Javascript
